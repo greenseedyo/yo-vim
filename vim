@@ -1,1 +1,0 @@
-/VeryBuy/scripts/rc/vim
